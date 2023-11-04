@@ -1,4 +1,4 @@
-![logo](https://github.com/no-option/no-option/blob/main/download.jpeg)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDAEMO0Tz4Et0qgPrbrJ6Ls-ntnnKLWOQPqhp9MeISbjKM-BI7XZpFOT1Uwr_TNWT43Y&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Ankan Manna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
